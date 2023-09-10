@@ -1,0 +1,138 @@
+* {
+    box-sizing: 
+    color: #777;
+}
+
+HTML, body {
+    margin: 0;
+    padding-top: 0;
+}
+
+.nav ul {
+    margin-top: o;
+
+    
+}
+
+
+.nav li {
+    display: inline;
+    font-size: 1.5EM;
+}
+
+.nav a {
+    display: inline-block;
+     padding: .5em;
+     color: white;
+     text-decoration: none;
+
+}
+.main-nav {
+         text-align: center;
+         font-size: 1.1em;
+         font-weight: lighter;
+         border-bottom: 1px solid rgba(255, 255, 255, .3);;
+}
+.main-nav li {
+    padding: 0 5%;
+}
+
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.MAIN-HEADER {
+    background-image: url("IMAGES/office-room-hd-wallpaper-5120x2160.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 20px;
+
+}
+
+
+
+
+.h1 {
+    color:white;
+    text-align: center;
+    font-family: "Caveat";
+    font-size: 4em;
+   
+
+}
+
+
+#P1 {
+    color: BLACK;
+    font-family: "Caveat";
+    font-size: 30px;
+    text-align: left;
+    left: 0;
+    
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.muhad {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.main-footer {
+    text-align: center;
+    background-color: rgb(70, 59, 70);
+    color: white;
+    padding: .25em 10;
+
+
+}
+.band-name {
+    font-size: 4em;
+    font-family: "Caveat";
+    
+
+}
+.main-footer-container {
+    display: flex;
+    align-items: center;
+}
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+
+}
+
+.footer-nav li {
+    padding: 0 .5em;
+}
+
+.footer.nav img {
+    width: 10px;
+    height: 10px;
+}
+
+.P2 {
+    color: linear-gradient(rgb(71, 5, 71));
+    font-family: "Caveat";
+    font-size: 30px;
+    padding-bottom: 50px;
+    
+
+}
+
+
+.BANNER {
+    background: linear-gradient(rgb(240, 232, 232), GREY );
+}
+.MID-NAV {
+    text-align: center;
+         font-size: 1.1em;
+         font-weight: lighter;
+        
+    
+}
+.MID-NAV LI {
+    padding: 0 15%;
+}
